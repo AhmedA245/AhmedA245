@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Research Projects
 - 📫 You can reach me on Linkedin www.linkedin.com/in/ahmed-abdulahi-ahmed
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 <!---
 AhmedA245/AhmedA245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
